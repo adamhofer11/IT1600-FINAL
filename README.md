@@ -1,9 +1,5 @@
 # Digital Concept Tutorial: Introduction to Git and GitHub
 
-**Author:** Adam Hofer  
-**Course:** Digital Concepts in Computing  
-**Date:** December 2024  
-
 ## Summary
 This tutorial introduces the basics of Git and GitHub, focusing on how to manage repositories, track changes in code, and collaborate with others. The purpose of this tutorial is to provide practical steps for beginners looking to understand and use Git and GitHub effectively. This tutorial will guide you through setting up a repository, making commits, pushing changes, and collaborating with others on GitHub.
 
