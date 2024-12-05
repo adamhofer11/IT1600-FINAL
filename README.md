@@ -1,15 +1,19 @@
-# Digital Concept Tutorial
+# Digital Concept Tutorial: Introduction to Git and GitHub
+
+**Author:** Adam Hofer  
+**Course:** Digital Concepts in Computing  
+**Date:** December 2024  
 
 ## Summary
-This tutorial covers the [digital concept/system/process] with an emphasis on [specific aspect]. The purpose of this tutorial is to provide clear, practical steps to help [target audience] understand and apply the concept. The tutorial will guide you through [brief explanation of steps or process]. 
+This tutorial introduces the basics of Git and GitHub, focusing on how to manage repositories, track changes in code, and collaborate with others. The purpose of this tutorial is to provide practical steps for beginners looking to understand and use Git and GitHub effectively. This tutorial will guide you through setting up a repository, making commits, pushing changes, and collaborating with others on GitHub.
 
 ## Target Audience
-This tutorial is intended for [describe your audience, e.g., beginners with little to no experience, intermediate users, specific age group, etc.]. If you have [specific prior knowledge or skills], this tutorial will be suitable for you.
+This tutorial is intended for beginners with little to no experience using Git and GitHub. If you're new to version control or want to streamline your workflow, this tutorial will be suitable for you.
 
 ---
 
 ## Table of Contents
-1. [Introduction to the Concept](introduction.md)
+1. [Introduction to Git and GitHub](introduction.md)
 2. [Setup Instructions](setup.md)
 3. [Step-by-Step Process](process.md)
 4. [Advanced Tips](advanced-tips.md)
