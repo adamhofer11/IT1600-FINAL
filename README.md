@@ -1,8 +1,4 @@
-# Digital Concept Tutorial: [Insert Title Here]
-
-**Author:** Adam Hofer  
-**Course:** [Course Name]  
-**Date:** [Date]  
+# Digital Concept Tutorial
 
 ## Summary
 This tutorial covers the [digital concept/system/process] with an emphasis on [specific aspect]. The purpose of this tutorial is to provide clear, practical steps to help [target audience] understand and apply the concept. The tutorial will guide you through [brief explanation of steps or process]. 
